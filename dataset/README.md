@@ -1,1 +1,11 @@
 数据集位置
+CHN6{
+    train{
+        _sat.jpg
+        _mask.png
+    }
+    test{
+        _sat.jpg
+        _mask.png
+    }
+}
